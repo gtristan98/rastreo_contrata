@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "153226589614",
+      "project_id": "rastreo-contrata",
+      "storage_bucket": "rastreo-contrata.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:153226589614:android:62f9ae72d0623628a1843f",
+          "android_client_info": {
+            "package_name": "com.example.app_rastreo"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAwZU5_ny55kxdVQ2vdLFbXA63BbTPx77A"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:153226589614:android:a25eff943b21d880a1843f",
+          "android_client_info": {
+            "package_name": "com.example.rastreo_contrata"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAwZU5_ny55kxdVQ2vdLFbXA63BbTPx77A"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
